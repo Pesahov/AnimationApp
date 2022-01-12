@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		52218499278F5B7200D266BE /* Extension + UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52218498278F5B7200D266BE /* Extension + UIButton.swift */; };
 		52F36DE1278F4685008D6458 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F36DE0278F4685008D6458 /* AppDelegate.swift */; };
 		52F36DE3278F4685008D6458 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F36DE2278F4685008D6458 /* SceneDelegate.swift */; };
 		52F36DE5278F4685008D6458 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F36DE4278F4685008D6458 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		52218498278F5B7200D266BE /* Extension + UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIButton.swift"; sourceTree = "<group>"; };
 		52F36DDD278F4685008D6458 /* AnimationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52F36DE0278F4685008D6458 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		52F36DE2278F4685008D6458 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				52F36DE0278F4685008D6458 /* AppDelegate.swift */,
 				52F36DE2278F4685008D6458 /* SceneDelegate.swift */,
 				52F36DE4278F4685008D6458 /* ViewController.swift */,
+				52218498278F5B7200D266BE /* Extension + UIButton.swift */,
 				52F36DE6278F4685008D6458 /* Main.storyboard */,
 				52F36DE9278F4686008D6458 /* Assets.xcassets */,
 				52F36DEB278F4686008D6458 /* LaunchScreen.storyboard */,
@@ -80,7 +83,6 @@
 				F436DA8B742AD47F623F8199 /* Pods-AnimationApp.debug.xcconfig */,
 				ECB06C5C455ECB3969F745D2 /* Pods-AnimationApp.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -210,6 +212,7 @@
 				52F36DE5278F4685008D6458 /* ViewController.swift in Sources */,
 				52F36DE1278F4685008D6458 /* AppDelegate.swift in Sources */,
 				52F36DE3278F4685008D6458 /* SceneDelegate.swift in Sources */,
+				52218499278F5B7200D266BE /* Extension + UIButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
